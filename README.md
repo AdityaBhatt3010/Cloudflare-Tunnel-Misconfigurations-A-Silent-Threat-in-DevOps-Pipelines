@@ -6,6 +6,8 @@ However, what most teams fail to realize is this: **Cloudflare Tunnel misconfigu
 
 Let’s dive into how, why, and what can be done about it.
 
+![New](https://github.com/user-attachments/assets/82265de7-952e-4c7c-a10a-00fd03015b8a)
+
 ---
 
 ## 🌐 What Is Cloudflare Tunnel?
